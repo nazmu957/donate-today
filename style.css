@@ -1,0 +1,85 @@
+.banner{
+    width: 100%;
+    height: 850px;
+    background-image: url(https://i.ibb.co/wcgDZYm/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 0px;
+    margin-top: 0px;
+     
+}
+.banner h1{
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Roboto', sans-serif;
+    color: azure;
+    text-align: center;
+    font-size: 100px;
+    padding-top: 200px;
+}
+.banner p{
+    text-align: center;
+    color: azure;
+    font-size: 25px;
+    padding-top: 0px;
+}
+.banner a {
+  background-color: rgb(225, 81, 81);
+  color: white;
+  border-radius: 5px;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 820px;
+  margin-top: 15px;
+  font-size: 25px;
+}
+.headline{
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 100px;
+}
+.headline h1{
+    font-size: 50px;
+}
+.headline p{
+    font-size: 20px;
+    color: grey;
+    font-weight: 100;
+}
+.box-model{
+    display: flex;
+    margin-left: 450px;
+
+}
+.box-model h1{
+      color: grey;
+      padding: 50px 15px;
+      font-size: 30px;
+      font-weight: bolder;
+      
+      
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 8px;
+}
+.color-box{
+     width: 150px;
+    height: 150px;
+    background-color: rgb(237, 172, 143);
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 8px;
+    border-color: 2px solid black;
+    
+    
+}
+.color-box h1{
+    color: rgb(225, 81, 81);
+}
