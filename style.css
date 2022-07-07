@@ -195,3 +195,69 @@
   margin-top: 15px;
   font-size: 25px;
 }
+.update-part{
+    text-align: center;
+}
+.update-part h1{
+    font-size: 50px;
+    padding-top: 40px;
+}
+.update-part p{
+    color: grey;
+    font-weight: 100;
+}
+.email{
+    width: 800px;
+    height: 250px;
+    background-color: #fffbe7;
+    margin-left: 500px;
+    border-radius: 8px;
+    text-align: center;
+    
+}
+.email a{
+       background-color: rgb(225, 81, 81);
+  color: white;
+  margin-left: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+   border-radius: 0px 5px 5px 0px;
+}
+
+.email form {
+    padding: 110px;
+    border-style: solid;
+     border-color: white;
+   
+}
+.email form input{
+    padding: 12px 70px;
+    background-color: #e2e2e2;
+      border-style: solid;
+     border-color: white;
+     border-radius: 5px 0px 0px 5px;
+    
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+
+}
+.footer-part{
+    padding-top: 100px;
+}
+.footer-part h1{
+    color: coral;
+  
+
+}
