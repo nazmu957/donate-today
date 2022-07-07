@@ -166,3 +166,32 @@
      padding-top: 50px;
     padding-left: 20px;
 }
+.contribute{
+    display: flex;
+}
+.contribute img{
+    width: 60%;
+    height: 500px;
+    padding-top: 50px;
+    border-radius: 10px 10px;
+}
+.contribute-part{
+    width: 40%;
+    height: 500px;
+    padding: 40px;
+    margin-left: 240px;
+}
+.contribute-part h1{
+    font-size: 50px;
+}
+.contribute-part a{
+     background-color: rgb(225, 81, 81);
+  color: white;
+  border-radius: 5px;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 25px;
+}
